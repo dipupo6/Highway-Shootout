@@ -40,7 +40,7 @@ public class GoogleMobileAdsBanner : MonoBehaviour
         // Real ads
         if (!TestAds)
         {
-            adUnitId = "ca-app-pub-7821291602827838/8680966768";
+            adUnitId = "ca-app-pub-3940256099942544/6300978111";
         }
 #elif UNITY_IPHONE
             //adUnitId = "ca-app-pub-3940256099942544/2934735716";

@@ -34,7 +34,7 @@ public class GoogleMobileAdsScript : MonoBehaviour
         // Real ads
         if (!TestAds)
         {
-            adUnitId = "ca-app-pub-7821291602827838/7453491799";
+            adUnitId = "ca-app-pub-3940256099942544/5224354917";
         }
 #elif UNITY_IPHONE
             //adUnitId = "ca-app-pub-3940256099942544/5224354917";
